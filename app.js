@@ -108,4 +108,4 @@ console.log(`${member.displayName} has joined the server.`)
 });
 
 
-client.login(config.token) ///env
+client.login(config.token)
