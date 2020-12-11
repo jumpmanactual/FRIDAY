@@ -108,4 +108,4 @@ console.log(`${member.displayName} has joined the server.`)
 });
 
 
-client.login(process.env.FRI_TOKEN);///env
+client.login(config.token) ///env
